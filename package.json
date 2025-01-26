@@ -1,0 +1,24 @@
+{
+  "name": "web-e2e-testing-selenium-javascript",
+  "version": "1.0.0",
+  "description": "This repository is designed for end-to-end web application testing using Selenium and JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leandjb/web-e2e-testing-selenium-javascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/leandjb/web-e2e-testing-selenium-javascript/issues"
+  },
+  "homepage": "https://github.com/leandjb/web-e2e-testing-selenium-javascript#readme",
+  "dependencies": {
+    "selenium-webdriver": "^4.28.1"
+  }
+}
